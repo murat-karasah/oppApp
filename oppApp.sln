@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppApp", "oppApp\oppApp.csproj", "{16E8CBC6-D889-43D0-93FE-EDB054399321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataUret", "dataUret\dataUret.csproj", "{5430317A-4A85-42B5-B498-BC0A66820816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E8CBC6-D889-43D0-93FE-EDB054399321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8CBC6-D889-43D0-93FE-EDB054399321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8CBC6-D889-43D0-93FE-EDB054399321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8CBC6-D889-43D0-93FE-EDB054399321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5430317A-4A85-42B5-B498-BC0A66820816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5430317A-4A85-42B5-B498-BC0A66820816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5430317A-4A85-42B5-B498-BC0A66820816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5430317A-4A85-42B5-B498-BC0A66820816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48AB0C7-A570-47F7-AEFD-FBEDEF0D7CC5}
+	EndGlobalSection
+EndGlobal
